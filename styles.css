@@ -30,3 +30,9 @@ body{
  color: #d63384
 }
 
+.row
+
+img{
+  height:25%;
+  border-radius:10px;
+}
